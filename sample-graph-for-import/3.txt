@@ -1,0 +1,840 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "x": 83.62014770507812,
+            "y": 303.552734375,
+            "width": 28,
+            "height": 19,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "0",
+            "use_rate": 0,
+            "prod_rate": "200"
+        },
+        {
+            "id": 1,
+            "x": 93.8603515625,
+            "y": 411.0208969116211,
+            "width": 28,
+            "height": 19,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "1",
+            "use_rate": "0",
+            "prod_rate": "200"
+        },
+        {
+            "id": 2,
+            "x": 86.92404174804688,
+            "y": 506.5650329589844,
+            "width": 28,
+            "height": 19,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "2",
+            "use_rate": 0,
+            "prod_rate": "350"
+        },
+        {
+            "id": 3,
+            "x": 84.6201171875,
+            "y": 621.7169876098633,
+            "width": 28,
+            "height": 19,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "3",
+            "use_rate": 0,
+            "prod_rate": "200"
+        },
+        {
+            "id": 4,
+            "x": 254.89944458007812,
+            "y": 293.38848876953125,
+            "width": 20,
+            "height": 20,
+            "shape": null,
+            "title": "4",
+            "use_rate": 0,
+            "prod_rate": 0
+        },
+        {
+            "id": 5,
+            "x": 261.29649353027344,
+            "y": 425.9007797241211,
+            "width": 20,
+            "height": 20,
+            "shape": null,
+            "title": "5",
+            "use_rate": 0,
+            "prod_rate": 0
+        },
+        {
+            "id": 6,
+            "x": 261.2965087890625,
+            "y": 531.8493935465813,
+            "width": 20,
+            "height": 20,
+            "shape": null,
+            "title": "6",
+            "use_rate": 0,
+            "prod_rate": 0
+        },
+        {
+            "id": 7,
+            "x": 261.50120544433594,
+            "y": 633.7611236572266,
+            "width": 20,
+            "height": 20,
+            "shape": null,
+            "title": "7",
+            "use_rate": 0,
+            "prod_rate": 0
+        },
+        {
+            "id": 8,
+            "x": 435.46209716796875,
+            "y": 337.6728515625,
+            "width": 28,
+            "height": 19,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "8",
+            "use_rate": "80",
+            "prod_rate": 0
+        },
+        {
+            "id": 9,
+            "x": 434.46209716796875,
+            "y": 457.6728515625,
+            "width": 28,
+            "height": 19,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "9",
+            "use_rate": "100",
+            "prod_rate": 0
+        },
+        {
+            "id": 10,
+            "x": 431.46209716796875,
+            "y": 575.6728515625,
+            "width": 40,
+            "height": 20,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "10",
+            "use_rate": "50",
+            "prod_rate": 0
+        },
+        {
+            "id": 11,
+            "x": 579.4620971679688,
+            "y": 250.6728515625,
+            "width": 28,
+            "height": 28,
+            "shape": null,
+            "title": "11",
+            "use_rate": 0,
+            "prod_rate": 0
+        },
+        {
+            "id": 12,
+            "x": 617.281120300293,
+            "y": 316.8034973144531,
+            "width": 28,
+            "height": 28,
+            "shape": null,
+            "title": "12",
+            "use_rate": 0,
+            "prod_rate": 0
+        },
+        {
+            "id": 13,
+            "x": 625.1906356811523,
+            "y": 404.0648193359375,
+            "width": 28,
+            "height": 28,
+            "shape": null,
+            "title": "13",
+            "use_rate": 0,
+            "prod_rate": 0
+        },
+        {
+            "id": 14,
+            "x": 638.7881469726562,
+            "y": 499.3392381668091,
+            "width": 28,
+            "height": 28,
+            "shape": null,
+            "title": "14",
+            "use_rate": 0,
+            "prod_rate": 0
+        },
+        {
+            "id": 15,
+            "x": 635.2405776977539,
+            "y": 594.1116065979004,
+            "width": 28,
+            "height": 28,
+            "shape": null,
+            "title": "15",
+            "use_rate": 0,
+            "prod_rate": 0
+        },
+        {
+            "id": 16,
+            "x": 640.1637649536133,
+            "y": 750.0021209716797,
+            "width": 28,
+            "height": 28,
+            "shape": null,
+            "title": "16",
+            "use_rate": 0,
+            "prod_rate": 0
+        },
+        {
+            "id": 17,
+            "x": 751.7852630615234,
+            "y": 255.54727172851562,
+            "width": 28,
+            "height": 28,
+            "shape": null,
+            "title": "17",
+            "use_rate": 0,
+            "prod_rate": 0
+        },
+        {
+            "id": 18,
+            "x": 806.7298583984375,
+            "y": 386.80350494384766,
+            "width": 28,
+            "height": 28,
+            "shape": null,
+            "title": "18",
+            "use_rate": 0,
+            "prod_rate": 0
+        },
+        {
+            "id": 19,
+            "x": 833.986083984375,
+            "y": 500.5421962738037,
+            "width": 28,
+            "height": 28,
+            "shape": null,
+            "title": "19",
+            "use_rate": 0,
+            "prod_rate": 0
+        },
+        {
+            "id": 20,
+            "x": 843.9717407226562,
+            "y": 646.7097244262695,
+            "width": 28,
+            "height": 28,
+            "shape": null,
+            "title": "20",
+            "use_rate": 0,
+            "prod_rate": 0
+        },
+        {
+            "id": 21,
+            "x": 721.6486206054688,
+            "y": 80,
+            "width": 40,
+            "height": 20,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "21",
+            "use_rate": "40",
+            "prod_rate": 0
+        },
+        {
+            "id": 22,
+            "x": 818.6152648925781,
+            "y": 91.38818359375,
+            "width": 40,
+            "height": 20,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "22",
+            "use_rate": "50",
+            "prod_rate": 0
+        },
+        {
+            "id": 23,
+            "x": 914.8111877441406,
+            "y": 125.07281494140625,
+            "width": 40,
+            "height": 20,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "23",
+            "use_rate": "100",
+            "prod_rate": 0
+        },
+        {
+            "id": 24,
+            "x": 1064.7857666015625,
+            "y": 339.4786682128906,
+            "width": 40,
+            "height": 20,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "24",
+            "use_rate": "70",
+            "prod_rate": 0
+        },
+        {
+            "id": 25,
+            "x": 1071.1451416015625,
+            "y": 434.3312072753906,
+            "width": 40,
+            "height": 20,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "25",
+            "use_rate": "110",
+            "prod_rate": 0
+        },
+        {
+            "id": 26,
+            "x": 1060.8300476074219,
+            "y": 533.4579291343689,
+            "width": 40,
+            "height": 20,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "26",
+            "use_rate": "70",
+            "prod_rate": 0
+        },
+        {
+            "id": 27,
+            "x": 1080.0972900390625,
+            "y": 753.4318084716797,
+            "width": 40,
+            "height": 20,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "27",
+            "use_rate": "50",
+            "prod_rate": 0
+        },
+        {
+            "id": 28,
+            "x": 1038.0948791503906,
+            "y": 848.7434387207031,
+            "width": 40,
+            "height": 20,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "28",
+            "use_rate": "60",
+            "prod_rate": 0
+        },
+        {
+            "id": 29,
+            "x": 934.6272888183594,
+            "y": 867.1751403808594,
+            "width": 40,
+            "height": 20,
+            "shape": {
+                "aspect": 2,
+                "class": "Rect"
+            },
+            "title": "29",
+            "use_rate": "40",
+            "prod_rate": 0
+        }
+    ],
+    "links": [
+        {
+            "id": "0-4",
+            "source": 0,
+            "target": 4,
+            "title": "150",
+            "shape": null,
+            "weight": "150"
+        },
+        {
+            "id": "0-5",
+            "source": 0,
+            "target": 5,
+            "title": "100",
+            "shape": null,
+            "weight": "100"
+        },
+        {
+            "id": "1-4",
+            "source": 1,
+            "target": 4,
+            "title": "150",
+            "shape": null,
+            "weight": "150"
+        },
+        {
+            "id": "1-5",
+            "source": 1,
+            "target": 5,
+            "title": "170",
+            "shape": null,
+            "weight": "170"
+        },
+        {
+            "id": "1-6",
+            "source": 1,
+            "target": 6,
+            "title": "100",
+            "shape": null,
+            "weight": "100"
+        },
+        {
+            "id": "2-6",
+            "source": 2,
+            "target": 6,
+            "title": "85",
+            "shape": null,
+            "weight": "85"
+        },
+        {
+            "id": "2-5",
+            "source": 2,
+            "target": 5,
+            "title": "120",
+            "shape": null,
+            "weight": "120"
+        },
+        {
+            "id": "2-7",
+            "source": 2,
+            "target": 7,
+            "title": "90",
+            "shape": null,
+            "weight": "90"
+        },
+        {
+            "id": "3-6",
+            "source": 3,
+            "target": 6,
+            "title": "125",
+            "shape": null,
+            "weight": "125"
+        },
+        {
+            "id": "3-7",
+            "source": 3,
+            "target": 7,
+            "title": "120",
+            "shape": null,
+            "weight": "120"
+        },
+        {
+            "id": "4-8",
+            "source": 4,
+            "target": 8,
+            "title": "120",
+            "shape": null,
+            "weight": "120"
+        },
+        {
+            "id": "5-8",
+            "source": 5,
+            "target": 8,
+            "title": "180",
+            "shape": null,
+            "weight": "180"
+        },
+        {
+            "id": "5-9",
+            "source": 5,
+            "target": 9,
+            "title": "160",
+            "shape": null,
+            "weight": "160"
+        },
+        {
+            "id": "5-10",
+            "source": 5,
+            "target": 10,
+            "title": "120",
+            "shape": null,
+            "weight": "120"
+        },
+        {
+            "id": "6-9",
+            "source": 6,
+            "target": 9,
+            "title": "100",
+            "shape": null,
+            "weight": "100"
+        },
+        {
+            "id": "7-10",
+            "source": 7,
+            "target": 10,
+            "title": "120",
+            "shape": null,
+            "weight": "120"
+        },
+        {
+            "id": "7-9",
+            "source": 7,
+            "target": 9,
+            "title": "80",
+            "shape": null,
+            "weight": "80"
+        },
+        {
+            "id": "6-10",
+            "source": 6,
+            "target": 10,
+            "title": "160",
+            "shape": null,
+            "weight": "160"
+        },
+        {
+            "id": "8-11",
+            "source": 8,
+            "target": 11,
+            "title": "70",
+            "shape": null,
+            "weight": "70"
+        },
+        {
+            "id": "8-12",
+            "source": 8,
+            "target": 12,
+            "title": "90",
+            "shape": null,
+            "weight": "90"
+        },
+        {
+            "id": "8-13",
+            "source": 8,
+            "target": 13,
+            "title": "100",
+            "shape": null,
+            "weight": "100"
+        },
+        {
+            "id": "8-14",
+            "source": 8,
+            "target": 14,
+            "title": "60",
+            "shape": null,
+            "weight": "60"
+        },
+        {
+            "id": "9-12",
+            "source": 9,
+            "target": 12,
+            "title": "100",
+            "shape": null,
+            "weight": "100"
+        },
+        {
+            "id": "9-13",
+            "source": 9,
+            "target": 13,
+            "title": "200",
+            "shape": null,
+            "weight": "200"
+        },
+        {
+            "id": "9-14",
+            "source": 9,
+            "target": 14,
+            "title": "180",
+            "shape": null,
+            "weight": "180"
+        },
+        {
+            "id": "9-15",
+            "source": 9,
+            "target": 15,
+            "title": "100",
+            "shape": null,
+            "weight": "100"
+        },
+        {
+            "id": "10-15",
+            "source": 10,
+            "target": 15,
+            "title": "120",
+            "shape": null,
+            "weight": "120"
+        },
+        {
+            "id": "10-16",
+            "source": 10,
+            "target": 16,
+            "title": "90",
+            "shape": null,
+            "weight": "90"
+        },
+        {
+            "id": "10-14",
+            "source": 10,
+            "target": 14,
+            "title": "60",
+            "shape": null,
+            "weight": "60"
+        },
+        {
+            "id": "4-9",
+            "source": 4,
+            "target": 9,
+            "title": "150",
+            "shape": null,
+            "weight": "150"
+        },
+        {
+            "id": "9-8",
+            "source": 9,
+            "target": 8,
+            "title": "100",
+            "shape": null,
+            "weight": "100"
+        },
+        {
+            "id": "9-10",
+            "source": 9,
+            "target": 10,
+            "title": "100",
+            "shape": null,
+            "weight": "100"
+        },
+        {
+            "id": "15-16",
+            "source": 15,
+            "target": 16,
+            "title": "60",
+            "shape": null,
+            "weight": "60"
+        },
+        {
+            "id": "16-20",
+            "source": 16,
+            "target": 20,
+            "title": "100",
+            "shape": null,
+            "weight": "100"
+        },
+        {
+            "id": "16-19",
+            "source": 16,
+            "target": 19,
+            "title": "50",
+            "shape": null,
+            "weight": "50"
+        },
+        {
+            "id": "15-20",
+            "source": 15,
+            "target": 20,
+            "title": "120",
+            "shape": null,
+            "weight": "120"
+        },
+        {
+            "id": "15-19",
+            "source": 15,
+            "target": 19,
+            "title": "80",
+            "shape": null,
+            "weight": "80"
+        },
+        {
+            "id": "14-19",
+            "source": 14,
+            "target": 19,
+            "title": "150",
+            "shape": null,
+            "weight": "150"
+        },
+        {
+            "id": "14-18",
+            "source": 14,
+            "target": 18,
+            "title": "100",
+            "shape": null,
+            "weight": "100"
+        },
+        {
+            "id": "19-20",
+            "source": 19,
+            "target": 20,
+            "title": "150",
+            "shape": null,
+            "weight": "150"
+        },
+        {
+            "id": "13-18",
+            "source": 13,
+            "target": 18,
+            "title": "120",
+            "shape": null,
+            "weight": "120"
+        },
+        {
+            "id": "13-17",
+            "source": 13,
+            "target": 17,
+            "title": "100",
+            "shape": null,
+            "weight": "100"
+        },
+        {
+            "id": "17-18",
+            "source": 17,
+            "target": 18,
+            "title": "17-18",
+            "shape": null,
+            "weight": 0
+        },
+        {
+            "id": "12-17",
+            "source": 12,
+            "target": 17,
+            "title": "180",
+            "shape": null,
+            "weight": "180"
+        },
+        {
+            "id": "11-17",
+            "source": 11,
+            "target": 17,
+            "title": "60",
+            "shape": null,
+            "weight": "60"
+        },
+        {
+            "id": "13-19",
+            "source": 13,
+            "target": 19,
+            "title": "75",
+            "shape": null,
+            "weight": "75"
+        },
+        {
+            "id": "17-21",
+            "source": 17,
+            "target": 21,
+            "title": "60",
+            "shape": null,
+            "weight": "60"
+        },
+        {
+            "id": "17-22",
+            "source": 17,
+            "target": 22,
+            "title": "75",
+            "shape": null,
+            "weight": "75"
+        },
+        {
+            "id": "17-23",
+            "source": 17,
+            "target": 23,
+            "title": "80",
+            "shape": null,
+            "weight": "80"
+        },
+        {
+            "id": "18-24",
+            "source": 18,
+            "target": 24,
+            "title": "90",
+            "shape": null,
+            "weight": "90"
+        },
+        {
+            "id": "18-25",
+            "source": 18,
+            "target": 25,
+            "title": "50",
+            "shape": null,
+            "weight": "50"
+        },
+        {
+            "id": "19-25",
+            "source": 19,
+            "target": 25,
+            "title": "75",
+            "shape": null,
+            "weight": "75"
+        },
+        {
+            "id": "19-26",
+            "source": 19,
+            "target": 26,
+            "title": "100",
+            "shape": null,
+            "weight": "100"
+        },
+        {
+            "id": "20-27",
+            "source": 20,
+            "target": 27,
+            "title": "80",
+            "shape": null,
+            "weight": "80"
+        },
+        {
+            "id": "20-28",
+            "source": 20,
+            "target": 28,
+            "title": "75",
+            "shape": null,
+            "weight": "75"
+        },
+        {
+            "id": "20-29",
+            "source": 20,
+            "target": 29,
+            "title": "80",
+            "shape": null,
+            "weight": "80"
+        },
+        {
+            "id": "18-23",
+            "source": 18,
+            "target": 23,
+            "title": "50",
+            "shape": null,
+            "weight": "50"
+        }
+    ]
+}

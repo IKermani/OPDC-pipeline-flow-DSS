@@ -1,0 +1,12 @@
+venv/
+staticfiles/
+db.sqliete3
+__pychache__/
+*__pycache__*
+*.pyc
+db.sqlite3
+*.DS_Store
+media/
+# Project exclude paths
+/solver/static/solver/js/lib/
+.idea
