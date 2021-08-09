@@ -10,7 +10,9 @@ cycler==0.10.0
 debugpy==1.4.1
 decorator==5.0.9
 defusedxml==0.7.1
+dj-database-url==0.5.0
 Django==3.2.6
+django-heroku==0.3.1
 djangorestframework==3.12.4
 docutils==0.17.1
 entrypoints==0.3
@@ -44,6 +46,8 @@ pickleshare==0.7.5
 Pillow==8.3.1
 prometheus-client==0.11.0
 prompt-toolkit==3.0.19
+psycopg2==2.9.1
+psycopg2-binary==2.9.1
 ptyprocess==0.7.0
 PuLP==2.4
 pycparser==2.20
@@ -63,3 +67,4 @@ tornado==6.1
 traitlets==5.0.5
 wcwidth==0.2.5
 webencodings==0.5.1
+whitenoise==5.3.0
